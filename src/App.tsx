@@ -41,7 +41,7 @@ function App() {
   const platformFeatures = [
     {
       icon: Pill,
-      title: "Wholesale Medicine Trading",
+      title: "Disease controller",
       description: "Connect with certified wholesale medicine traders for agricultural supplies, pesticides, and fertilizers at competitive bulk prices.",
       color: "bg-emerald-500",
       stats: "500+ Suppliers",
